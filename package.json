@@ -27,7 +27,7 @@
         "@mui/x-data-grid": "^5.5.1",
         "fuse.js": "^6.6.2",
         "leaflet": "^1.8.0",
-        "luxon": "^2.3.2",
+        "luxon": "^2.5.2",
         "mobx": "^6.3.5",
         "mobx-react": "^7.2.1",
         "moment": "^2.29.1",
